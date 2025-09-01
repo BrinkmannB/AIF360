@@ -1,3 +1,6 @@
+git add README.md
+git commit -m "Rewrite README with badges and quickstart cheat sheet"
+git push
 # AIF360 Starter – Fairness in AI
 
 ![Python](https://img.shields.io/badge/python-3.11-blue)
