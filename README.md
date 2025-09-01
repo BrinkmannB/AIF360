@@ -1,3 +1,4 @@
+nano README.md
 # AIF360 Starter – Fairness in AI
 
 Dit is mijn leer- en oefenrepo waarin ik werk met **[AI Fairness 360 (AIF360)](https://aif360.mybluemix.net/)**, een open-source toolkit van IBM om bias in AI-modellen te meten en te mitigeren.  
